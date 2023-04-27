@@ -1,0 +1,87 @@
+{
+    "cars": [
+      {
+        "brand": "tesla",
+        "type": "manual",
+        "year": "2013",
+        "kms": "2569",
+        "description": "in condition",
+        "price": "339999",
+        "id": 5
+      },
+      {
+        "brand": "maruti",
+        "type": "automated",
+        "year": "2012",
+        "kms": "1200",
+        "description": "good condition",
+        "price": "300000",
+        "id": 6
+      },
+      {
+        "brand": "hyundai",
+        "type": "manual",
+        "year": "2014",
+        "kms": "6000",
+        "description": "nice condition",
+        "price": "120000",
+        "id": 7
+      },
+      {
+        "brand": "tata",
+        "type": "manual",
+        "year": "2014",
+        "kms": "36200",
+        "description": "In Condition",
+        "price": "60000",
+        "id": 8
+      }
+    ],
+    "wishlist": [
+      {
+        "brand": "maruti",
+        "type": "automated",
+        "year": "2012",
+        "kms": "1200",
+        "description": "good condition",
+        "price": "300000",
+        "id": 2
+      },
+      {
+        "brand": "tesla",
+        "type": "manual",
+        "year": "2013",
+        "kms": "2569",
+        "description": "in condition",
+        "price": "339999",
+        "id": 3
+      },
+      {
+        "brand": "tata",
+        "type": "automated",
+        "year": "2012",
+        "kms": "345678",
+        "description": "best",
+        "price": "30000",
+        "id": 4
+      },
+      {
+        "brand": "tata",
+        "type": "automated",
+        "year": "2012",
+        "kms": "345678",
+        "description": "best",
+        "price": "30000",
+        "id": 5
+      },
+      {
+        "brand": "maruti",
+        "type": "automated",
+        "year": "2012",
+        "kms": "1200",
+        "description": "good condition",
+        "price": "300000",
+        "id": 6
+      }
+    ]
+  }
